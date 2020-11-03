@@ -10,7 +10,7 @@
 ###### Brief Description: Identified multiple novel peptides expressed in human brain samples. Using R/BIOCONDUCTOR Package, ‘PGA’, I analyzed RNA-Seq data expressed in human brain tissues, converted to peptide sequences encoded by novel exons and finally search for their expression in samples available in public proteomic databases such as PRIDE using cluster computing. I have shown expression of novel repetitive elements in human brain samples and using USCS genome browser determining their genomic location.
 
 
-#Abstract
+# Abstract
 
 Identification of novel peptides is very important to reveal the cause of different diseases, and the
 field of Proteogenomics plays an important role in this regard. Here, novel peptides are identified
