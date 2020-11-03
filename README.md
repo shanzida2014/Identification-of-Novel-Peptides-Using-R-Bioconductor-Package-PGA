@@ -1,7 +1,16 @@
-# Identification-of-Novel-Peptides-Using-R-Bioconductor-Package-PGA
-Identification of Novel Peptides from Human Brain Samples: A Pilot Study
+--This file includes my capstone project's PDF file,Microsoft powerpoint presentation and R codes.--The datasets were taken from the previously published paper of Miranda et al (https://academic.oup.com/hmg/article/25/22/4962/2525924)
 
-Abstract
+
+#  Identification of Novel Peptides from Human Brain Samples: A Pilot Study
+
+
+###### Capstone project in Bioinformatics: Hood College                     	          
+###### Supervisor: Dr. Miranda Darby, Assistant Professor, Department of Bioinformatics
+###### Title: “Novel Peptides Identification from human brain samples”
+###### Brief Description: Identified multiple novel peptides expressed in human brain samples. Using R/BIOCONDUCTOR Package, ‘PGA’, I analyzed RNA-Seq data expressed in human brain tissues, converted to peptide sequences encoded by novel exons and finally search for their expression in samples available in public proteomic databases such as PRIDE using cluster computing. I have shown expression of novel repetitive elements in human brain samples and using USCS genome browser determining their genomic location.
+
+
+#Abstract
 
 Identification of novel peptides is very important to reveal the cause of different diseases, and the
 field of Proteogenomics plays an important role in this regard. Here, novel peptides are identified
